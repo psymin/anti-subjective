@@ -1,0 +1,3 @@
+The term "slurs" includes but is not limited to any of the words or phrases
+contained in the slurs.txt file.
+
